@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 /*Programa de ejemplo que captura argumentos recibidos por
  referencia y  que son usados después de su captura en otras
   funciones.*/
