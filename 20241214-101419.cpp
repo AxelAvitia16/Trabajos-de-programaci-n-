@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 #include <iostream> //programa que suma vectores y matrices
 #include<time.h>//random
 using namespace std;
