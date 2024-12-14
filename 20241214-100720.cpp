@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 /*Programa que lea 3 datos de entrada A, B y C. 
 Estos corresponden a las dimensiones de los lados de un
 triángulo. 
