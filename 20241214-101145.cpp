@@ -1,4 +1,4 @@
-Axel Eduardo Lopez Avitia 24041189
+//Axel Eduardo Lopez Avitia 24041189
 //matriz
 #include <iostream> //#include<stdio.h>
 #include<time.h>//random
