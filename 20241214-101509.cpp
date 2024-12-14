@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 #include <iostream> //programa que imprime un marco y en su interior un vector
 #include<time.h>//random
 #include <windows.h>
