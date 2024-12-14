@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 #include <windows.h>
 #include<iostream>
 using namespace std;
