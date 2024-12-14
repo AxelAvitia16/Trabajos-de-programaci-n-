@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 #include <iostream>
 using namespace std;//Función que verifica si un numero es par o impar
 void parImpar(int numero);
