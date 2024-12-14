@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 #include <iostream> //Sufamelico v1
 using namespace std;
 main()
