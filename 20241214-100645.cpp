@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 //Programa que determina si un número es positivo o negativo
 //#include<stdio.h>
 #include<iostream>
