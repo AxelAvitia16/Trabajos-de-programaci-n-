@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 #include <iostream>//captura con ciclo getche sin backspace
 #include<windows.h>
 #include<conio.h>
