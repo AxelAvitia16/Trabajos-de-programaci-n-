@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 #include <math.h>  // Incluimos la biblioteca para poder usar funciones matemáticas, como trunc(), que se usa más adelante.
 #include <iostream> // Esta biblioteca se utiliza para la entrada y salida de datos (cout y cin).
 #include <windows.h> // Incluimos esta biblioteca para poder usar funciones del sistema operativo Windows, en este caso, para manejar el formato de texto en la consola.
