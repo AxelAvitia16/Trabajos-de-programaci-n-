@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 /*Programa de ejemplo que usa una función la cual recibe los 
 parámetros por referencia, y una que los recibe por valor. Ambas
  obtienen el cuadrado del argumento. Cuando es por referencia se
