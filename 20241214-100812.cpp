@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 //Prg que calcula una tabla de multiplicar
 #include<iostream>
 #include<windows.h>
