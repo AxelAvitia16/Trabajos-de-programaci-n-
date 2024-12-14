@@ -1,4 +1,4 @@
-Axel eduardo Lopez avitia 24041189
+//Axel eduardo Lopez avitia 24041189
 #include <iostream>
 using namespace std; //Función que realiza la suma de dos números
 int sumar(int a, int b);
